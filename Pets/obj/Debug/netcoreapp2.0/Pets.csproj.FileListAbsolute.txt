@@ -1,0 +1,10 @@
+D:\Users\Dave\My Documents\Data\class\dotNet2018\repo\Pets_Interface\Pets\bin\Debug\netcoreapp2.0\Pets.deps.json
+D:\Users\Dave\My Documents\Data\class\dotNet2018\repo\Pets_Interface\Pets\bin\Debug\netcoreapp2.0\Pets.runtimeconfig.json
+D:\Users\Dave\My Documents\Data\class\dotNet2018\repo\Pets_Interface\Pets\bin\Debug\netcoreapp2.0\Pets.runtimeconfig.dev.json
+D:\Users\Dave\My Documents\Data\class\dotNet2018\repo\Pets_Interface\Pets\bin\Debug\netcoreapp2.0\Pets.dll
+D:\Users\Dave\My Documents\Data\class\dotNet2018\repo\Pets_Interface\Pets\bin\Debug\netcoreapp2.0\Pets.pdb
+D:\Users\Dave\My Documents\Data\class\dotNet2018\repo\Pets_Interface\Pets\obj\Debug\netcoreapp2.0\Pets.csproj.CoreCompileInputs.cache
+D:\Users\Dave\My Documents\Data\class\dotNet2018\repo\Pets_Interface\Pets\obj\Debug\netcoreapp2.0\Pets.AssemblyInfoInputs.cache
+D:\Users\Dave\My Documents\Data\class\dotNet2018\repo\Pets_Interface\Pets\obj\Debug\netcoreapp2.0\Pets.AssemblyInfo.cs
+D:\Users\Dave\My Documents\Data\class\dotNet2018\repo\Pets_Interface\Pets\obj\Debug\netcoreapp2.0\Pets.dll
+D:\Users\Dave\My Documents\Data\class\dotNet2018\repo\Pets_Interface\Pets\obj\Debug\netcoreapp2.0\Pets.pdb
